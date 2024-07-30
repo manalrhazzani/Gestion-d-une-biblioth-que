@@ -21,5 +21,5 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 1. *Cloner le dépôt* :
 
-   git clone 
-https://github.com/SoukainaHachmoud/library-management
+   git clone
+https://github.com/manalrhazzani/Gestion-d-une-biblioth-que.git
